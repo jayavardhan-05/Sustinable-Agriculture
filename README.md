@@ -48,7 +48,7 @@ The Smart Fertilizer Recommender uses machine learning to analyze various agricu
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jayavardhan-05/Sustinable-Agriculture
 cd sustainable
 ```
 
@@ -77,7 +77,7 @@ Ensure the following files are present in the project directory:
 
 1. Navigate to the project directory:
 ```bash
-cd c:\Users\jaya vardhan\OneDrive\Desktop\sustainable
+cd ********************
 ```
 
 2. Launch the Streamlit server:
